@@ -2,7 +2,7 @@
 
 Direcionador de Links que tem a função de organizar e direcionar links.
 
-![preview](./.github/light-mode.png)
+![preview](./.github/light-mode.jpg)
 ![preview](./.github/dark-mode.jpg)
 
 ## ![preview](./.github/discover.png) Discover
