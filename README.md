@@ -8,7 +8,7 @@ Direcionador de Links que tem a função de organizar e direcionar links.
 
 Projeto construído a partir das aulas do Discover da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://github.com/Samuells77/direcionador-de-links)
+[🔗 Clique aqui para acessar](https://samuells77.github.io/direcionador-de-links/)
 
 ## 🧰 Tecnologias
 
