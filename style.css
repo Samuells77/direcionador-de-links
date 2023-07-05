@@ -52,10 +52,19 @@ body * {
     font-size: 24px;
 }
 
+
+
 #container{
     width: 360px;
     margin: 56px auto 0px;
     padding: 0 24px;
+}
+
+#audio-player{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
 }
 
 /* Profile */
@@ -114,6 +123,7 @@ body * {
     -webkit-backdrop-filter: blur(4px);
     border-radius: 9999px;
 }
+
 /* Lista de Links */
 ul {
     list-style: none;
