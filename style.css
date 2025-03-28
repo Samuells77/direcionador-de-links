@@ -156,15 +156,16 @@ ul li a:hover {
   display: flex;
   justify-content: center;
   padding: 24px 0;
-  font-size: 36px;
+  font-size: 32px;
 }
 
 #social-links a {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 8px;
+  padding: 16px;
 }
+
 
 #social-links a:hover {
   background: var(--highlight-color);
